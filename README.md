@@ -7,11 +7,10 @@ GPflowOpt is a python package for Bayesian Optimization using [GPflow](https://g
 
 # Install
 
-The easiest way to install GPflowOpt involves cloning this repository and running
 ```
-pip install . --process-dependency-links
+pip install gpflowopt
 ```
-in the source directory. This also installs all required dependencies (including TensorFlow, if needed). For more detailed installation instructions, see the [documentation](https://gpflowopt.readthedocs.io/en/latest/intro.html#install).
+This installs all required dependencies (including TensorFlow, if needed). For more detailed installation instructions, see the [documentation](https://gpflowopt.readthedocs.io/en/latest/intro.html#install).
 
 # Contributing
 If you are interested in contributing to this open source project, contact us through an issue on this repository. For more information, see the [notes for contributors](contributing.md).
